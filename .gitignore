@@ -1,0 +1,110 @@
+# ================================
+# Python
+# ================================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+.env
+.venv
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+
+# ================================
+# Jupyter / IPython
+# ================================
+.ipynb_checkpoints/
+*.ipynb
+
+# ================================
+# OS / Editor
+# ================================
+Thumbs.db
+*.swp
+*.swo
+.vscode/
+.idea/
+*.code-workspace
+
+# ======================================
+# macOS
+# ======================================
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.VolumeIcon.icns
+
+# ================================
+# Logs
+# ================================
+*.log
+training_logs/*.log
+
+# ================================
+# Data (Raw & Large Files)
+# ================================
+data/raw/
+*.npz
+*.hdf5
+*.tfrecord
+
+# ================================
+# Preprocessed / Generated Data
+# ================================
+outputs/**/*.npz
+outputs/**/*.pkl
+notebooks/
+
+# ================================
+# Models & Weights
+# ================================
+*.ckpt
+*.ckpt.index
+*.ckpt.data*
+
+
+# ================================
+# TensorFlow / Keras
+# ================================
+tensorboard/
+events.out.tfevents.*
+
+# ================================
+# Build / Distribution
+# ================================
+build/
+dist/
+*.egg-info/
+
+# ================================
+# Cache
+# ================================
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# ================================
+# Security
+# ================================
+*.key
+*.pem
+*.crt
+secrets/
+credentials.json
+
+# ================================
+# Temporary / Backup
+# ================================
+*.bak
+*.tmp
+*.old

@@ -1,0 +1,41 @@
+STEELFAULTNET EVALUATION REPORT
+=============================================
+
+Accuracy : 0.9010
+AUC      : 0.9535
+Confusion Matrix (counts): [22  2; 8  69]
+
+{
+    "0": {
+        "precision": 0.7333333333333333,
+        "recall": 0.9166666666666666,
+        "f1-score": 0.8148148148148148,
+        "support": 24.0
+    },
+    "1": {
+        "precision": 0.971830985915493,
+        "recall": 0.8961038961038961,
+        "f1-score": 0.9324324324324325,
+        "support": 77.0
+    },
+    "accuracy": 0.900990099009901,
+    "macro avg": {
+        "precision": 0.8525821596244132,
+        "recall": 0.9063852813852813,
+        "f1-score": 0.8736236236236237,
+        "support": 101.0
+    },
+    "weighted avg": {
+        "precision": 0.9151582763910193,
+        "recall": 0.900990099009901,
+        "f1-score": 0.9044836916124046,
+        "support": 101.0
+    },
+    "AUC": 0.9534632034632035,
+    "confusion_matrix": {
+        "tn": 22,
+        "fp": 2,
+        "fn": 8,
+        "tp": 69
+    }
+}
