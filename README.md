@@ -2,9 +2,9 @@
 
 **A model for 24-hour electromotor failure prediction using NOVIC+ Subset E (9-channel 25.6kHz industrial data) achieving 90.10% test accuracy & 95.35% AUC**
 
-**Author:** Mostafa MashhadiZadeh
-**Affiliation:** Shiraz University Of Technology
-**Contact:** mashhadizademostafa@gmail.com
+**Author**: Mostafa MashhadiZadeh
+**Affiliation**: Shiraz University Of Technology
+**Contact**: mashhadizademostafa@gmail.com
 
 ---
 
@@ -34,8 +34,6 @@
 ---
 
 ## Confusion Matrix
-
-<img src="outputs/figures/confusion_matrix_counts.png" width="100%" />
 
 <img src="outputs/figures/confusion_matrix_v2.png" width="100%" />
 
@@ -179,10 +177,10 @@ Full log on `training_logs/training_metrics.csv`
 
 ## Production Highlights
 
-90.10% test accuracy on real industrial data  
+90.10% test accuracy on real industrial data
 145 KB edge-deployable model
-Multi-platform export (ONNX)
-Fully reproducible pipeline  
+Multi-platform export(ONNX)
+Fully reproducible pipeline
 Robust signal preprocessing
 
 ---
