@@ -2,9 +2,10 @@
 
 **A model for 24-hour electromotor failure prediction using NOVIC+ Subset E (9-channel 25.6kHz industrial data) achieving 90.10% test accuracy & 95.35% AUC**
 
-**Author**: Mostafa MashhadiZadeh
-**Affiliation**: Shiraz University Of Technology
-**Contact**: mashhadizademostafa@gmail.com
+---
+**Author**: Mostafa Mashhadizadeh  
+**Affiliation:** Shiraz University of Technology  
+**Contact:** mashhadizademostafa@gmail.com
 
 ---
 
