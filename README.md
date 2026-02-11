@@ -1,9 +1,9 @@
 # SteelFaultNet: Industrial Electromotor Fault Prediction
 
-**End-to-end model for 24-hour electromotor failure prediction using NOVIC+ Subset E (9-channel 25.6kHz industrial data) achieving 90.10% test accuracy & 95.35% AUC**
+**A model for 24-hour electromotor failure prediction using NOVIC+ Subset E (9-channel 25.6kHz industrial data) achieving 90.10% test accuracy & 95.35% AUC**
 
-**Author**: Mostafa MashhadiZadeh
-**Affiliation:** Shiraz University Of Technology  
+**Author:** Mostafa MashhadiZadeh
+**Affiliation:** Shiraz University Of Technology
 **Contact:** mashhadizademostafa@gmail.com
 
 ---
@@ -35,9 +35,9 @@
 
 ## Confusion Matrix
 
-<img src="outputs/figures/confusion_matrix_counts.png" width="48%" />
+<img src="outputs/figures/confusion_matrix_counts.png" width="100%" />
 
-<img src="outputs/figures/confusion_matrix_v2.png" width="48%" />
+<img src="outputs/figures/confusion_matrix_v2.png" width="100%" />
 
 ```
 Predicted
@@ -155,8 +155,8 @@ outputs/
 
 ## Training History (Epoch 29 Peak)
 
-<img src="outputs/figures/metrics_curves.png" width="48%" />
-<img src="outputs/figures/loss_curves.png" width="48%" />
+<img src="outputs/figures/metrics_curves.png" width="100%" />
+<img src="outputs/figures/loss_curves.png" width="100%" />
 
 **Best Epoch (29):**
 - val_accuracy: **91.00%**
